@@ -19,7 +19,7 @@
 
 - 📝 View my portfolio at [https://sohaim-aslam.netlify.app](https://sohaim-aslam.netlify.app)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sohasl98](https://www.linkedin.com/in/sohasl98)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sohasl98](https://www.linkedin.com/in/s0a1m)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
