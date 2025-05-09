@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohaim Aslam</h1>
-<h3 align="center">Aspiring Penetration Tester | Cybersecurity Enthusiast | Programmer</h3>
+<h3 align="center">Full Stack Developer | Software Engineer | Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohasl98&label=Profile%20views&color=0e75b6&style=flat" alt="sohasl98" /> </p>
 
