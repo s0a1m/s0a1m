@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sohaim_aslam" target="blank"><img src="https://img.shields.io/twitter/follow/sohaim_aslam?logo=twitter&style=for-the-badge" alt="sohaim_aslam" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Java**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 👯 I’m looking to collaborate on **Red Team**
+- 👯 I’m looking to collaborate on **Front-End and Back-End**
 
-- 🤝 I’m looking for help with **Penetration Testing**
-
-- 💬 Ask me about **Cybersecurity**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **sohaimaslam334@gmail.com**
 
